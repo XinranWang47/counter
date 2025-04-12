@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.screen{
+  font-size: 130px;
+}
+input{
+  width: 65px;
+  height: 32px;
+}
+button{
+  background-color: rgb(238, 238, 181);
+  height: 50px;
+}
+.btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.sbm-btn {
+  font-size: 15px;
+  height: 40px;
+  padding: 10px 15px;
+  margin-left: 15px;
+  background-color: rgb(198, 198, 238);
+}
